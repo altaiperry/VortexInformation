@@ -1,2 +1,2 @@
 # VortexInformation
-Repository storing code used during the writing of the paper titled "Phase Gradient Information Recoverable via Random Vortex Encoders" submitted to Photonics letters in December 2025.
+Repository storing code used during the writing of the paper titled "Fisher-information-informed Sampling for Recoverable Phase Gradient via Vortex Encoders" submitted to Applied Optics in December 2025.
